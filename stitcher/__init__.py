@@ -1,0 +1,2 @@
+# Panorama stitching package
+
